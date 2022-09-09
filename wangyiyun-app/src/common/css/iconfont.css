@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3625650 */
+  src: url('iconfont.woff2?t=1662703810558') format('woff2'),
+       url('iconfont.woff?t=1662703810558') format('woff'),
+       url('iconfont.ttf?t=1662703810558') format('truetype'),
+       url('iconfont.svg?t=1662703810558#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shanchu:before {
+  content: "\e718";
+}
+
+.icon-gengduo1:before {
+  content: "\e664";
+}
+
+.icon-shangyishoushangyige:before {
+  content: "\e78a";
+}
+
+.icon-xiayigexiayishou:before {
+  content: "\e7a5";
+}
+
+.icon-replay:before {
+  content: "\e654";
+}
+
+.icon-zhongbo:before {
+  content: "\e613";
+}
+
+.icon-androidgengduo:before {
+  content: "\e78d";
+}
+
+.icon-25xiazai:before {
+  content: "\e647";
+}
+
+.icon-iconfontzhizuobiaozhun023146:before {
+  content: "\e694";
+}
+
+.icon-xiazai:before {
+  content: "\e659";
+}
+
+.icon-banzou-:before {
+  content: "\e608";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-pinglun-:before {
+  content: "\e609";
+}
+
+.icon-pinglun-1:before {
+  content: "\e60b";
+}
+
+.icon-bofang1:before {
+  content: "\e6ad";
+}
+
+.icon-bofang2:before {
+  content: "\e624";
+}
+
+.icon-24gf-playlistMusic4:before {
+  content: "\ea86";
+}
+
+.icon-shipin:before {
+  content: "\e632";
+}
+
+.icon-gengduo:before {
+  content: "\e622";
+}
+
+.icon-jiahao:before {
+  content: "\eaf3";
+}
+
+.icon-yunxiazai_o:before {
+  content: "\ebb4";
+}
+
+.icon-jianyi:before {
+  content: "\e6d3";
+}
+
+.icon-fenxiang:before {
+  content: "\e665";
+}
+
+.icon-show_duoxuan:before {
+  content: "\e601";
+}
+
+.icon-youjiantou:before {
+  content: "\e631";
+}
+
+.icon-zuojiantou:before {
+  content: "\e600";
+}
+
+.icon-gl-play:before {
+  content: "\ea6d";
+}
+
+.icon-bofang-copy:before {
+  content: "\f2c8";
+}
+
+.icon-bofang:before {
+  content: "\e8a3";
+}
+
+.icon-tuijian:before {
+  content: "\e60a";
+}
+
+.icon-gedan:before {
+  content: "\e66a";
+}
+
+.icon-dianshiji:before {
+  content: "\e610";
+}
+
+.icon-yinlegedan-:before {
+  content: "\e60f";
+}
+
+.icon-paihangbang:before {
+  content: "\f2c7";
+}
+
+.icon-cunqianguan-01:before {
+  content: "\e7ca";
+}
+
+.icon-paihangbang1:before {
+  content: "\e656";
+}
+
+.icon-sousu:before {
+  content: "\e621";
+}
+
+.icon-a-gengduoquanbu:before {
+  content: "\e630";
+}
+

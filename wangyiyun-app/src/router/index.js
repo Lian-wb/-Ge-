@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import store from '@/store/index.js'
 
@@ -46,7 +46,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHashHistory(process.env.BASE_URL),
   routes
 })
 router.beforeEach((to,from)=>{

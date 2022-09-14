@@ -5,8 +5,8 @@
 2、感谢[阿里巴巴矢量图标库](https://www.iconfont.cn/)和大佬提供的[网易云音乐API接口](https://github.com/Binaryify/NeteaseCloudMusicApi)  
 
 ### 部署和调试 ##
-源码提供了项目的前端部分和服务器安装包，详见🔜文件夹内各readme  
-注：
+源码提供了项目的前端部分和服务器安装包，详见🔜文件夹内各readme   
+[在线demo](https://lian-wb.github.io/-Ge-/wangyiyun-app/dist/index.html)
 
 ## 主要问题 ##
 1、对于较多次数的ajax请求进行了一次封装在request文件目录下，其余组件调用请求回来的数据或者传参只需要引入封装目录下的接口即可  

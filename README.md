@@ -6,7 +6,7 @@
 
 ### 部署和调试 ##
 源码提供了项目的前端部分和服务器安装包，详见🔜文件夹内各readme   
-[在线demo](https://lian-wb.github.io/-Ge-/wangyiyun-app/dist/index.html)：只能展示静态页面，查询等功能clone[服务器代码](https://github.com/Binaryify/NeteaseCloudMusicApi)本地开启即可
+只能展示静态页面，查询等功能clone[服务器代码](https://github.com/Binaryify/NeteaseCloudMusicApi)本地开启即可
 
 ## 主要问题 ##
 1、对于较多次数的ajax请求进行了一次封装在request文件目录下，其余组件调用请求回来的数据或者传参只需要引入封装目录下的接口即可  
